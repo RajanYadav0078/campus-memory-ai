@@ -1,0 +1,6 @@
+{
+  "name": "Campus Memory AI",
+  "description": "An AI that doesn't forget your academic journey — Persistent Agentic Memory with CockroachDB & AWS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
